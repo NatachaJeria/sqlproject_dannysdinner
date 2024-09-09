@@ -1,6 +1,7 @@
-SQL Project: Danny's Diner Analysis
+SQL Project: Danny's Dinner Analysis
 
 Overview
+
 This repository contains my inaugural SQL project, leveraging MySQL for data analysis and Power BI for data visualization. The project is based on the "Danny's Diner" case study from 8WeekSQLChallenge.com
 
 Project Highlights
